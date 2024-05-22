@@ -11,7 +11,7 @@ Initialize a new Node.js project with default settings by running the following 
 npm init -y
 ```
 
-#### Mirador and Text Overlay Plugin Installation
+### Mirador and Text Overlay Plugin Installation
 Install Mirador and the Text Overlay plugin by running the following commands:
 ``` bash
 npm install mirador
